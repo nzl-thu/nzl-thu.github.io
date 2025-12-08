@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zanlin Ni (倪赞林)
+    - name: Email
+      value: nzl22@mails.tsinghua.edu.cn
+    - name: Phone
+      value: (+86) 188-109-53539
+    - name: GitHub
+      value: nzl-thu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Student in Pattern Recognition and Machine Learning
+      institution: Tsinghua University, Beijing, China
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Prof. Gao Huang"
+    - title: B.Eng. in Automation
+      institution: Tsinghua University, Beijing, China
+      year: 2017 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.77/4, RANK: 2/174"
 
-- title: Experience
+- title: Internship Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Beijing Academy of Artificial Intelligence (BAAI), Beijing, China
+      year: Oct. 2022 - May. 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - One of the first researchers to reproduce Google's Muse framework. Led the implementation and release of a high-quality open-source version.
+        - "Released pretrained models at MUSE-Pytorch, achieving leading performance among contemporary open-source Muse projects."
+        - "The work has been acknowledged and adopted by multiple subsequent influential projects, including 1d-tokenizer (ByteDance), StyleDrop-PyTorch, One-D-Piece."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Research Interests
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Discrete Generative Models
+      items:
+        - Non-autoregressive token-based models (e.g., MaskGIT)
+        - Policy optimization for masked diffusion models
+    - title: Image Synthesis
+      items:
+        - Efficient image generation
+        - Diffusion models and test-time adaptation
+    - title: Perception Models
+      items:
+        - Locally supervised learning
+        - Adaptive vision models
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - National Natural Science Foundation of China (NSFC) Grant for Doctoral Students
+        - National Scholarship, Tsinghua University
+    - year: 2023
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Xuancheng Talents Scholarship, Tsinghua University
+    - year: 2022
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "Future Scholar Scholarship, Tsinghua University (top 2% in Tsinghua University)"
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - "SenseTime Scholarship, SenseTime (30 undergraduates students nationwide)"
+    - year: 2020 - Now
+      items:
+        - "Tang Lixin Scholarship (top 0.5% in Tsinghua University)"
+    - year: 2019
+      items:
+        - Huang Qianheng Scholarship
+        - 2nd Prize, National Undergraduate Math Competition
+    - year: 2018
+      items:
+        - "Gao Tian Special Scholarship (top 1% in Tsinghua University)"
+        - 1st Prize, Beijing Undergraduate Math Competition
+        - 1st Prize, Regional Undergraduate Physics Competition

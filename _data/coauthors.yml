@@ -1,34 +1,63 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"huang":
+  - firstname: ["Gao"]
+    url: http://www.gaohuang.net/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"wang":
+  - firstname: ["Yulin"]
+    url: https://www.wyl.cool/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"guo":
+  - firstname: ["Jiayi"]
+    url: https://www.jiayiguo.net/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"zhou":
+  - firstname: ["Renping"]
+    url: https://scholar.google.com/citations?user=zNc7Eg8AAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"yao":
+  - firstname: ["Yuan"]
+    url: https://scholar.google.com/citations?hl=en&user=3NWfi3YAAAAJ
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"song":
+  - firstname: ["Shiji"]
+    url: https://scholar.google.com/citations?hl=en&user=rw6vWdcAAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"liu":
+  - firstname: ["Zhiyuan"]
+    url: https://nlp.csai.tsinghua.edu.cn/~lzy/
+  - firstname: ["Zeyu"]
+    url: https://scholar.google.com/citations?hl=en&user=55tpKaoAAAAJ
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"han":
+  - firstname: ["Yizeng"]
+    url: https://yizenghan.top/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"hua":
+  - firstname: ["Yeguo"]
+
+"tang":
+  - firstname: ["Yansong"]
+    url: https://andytang15.github.io/
+
+"jiang":
+  - firstname: ["Haojun"]
+    url: https://github.com/jianghaojun
+
+"ge":
+  - firstname: ["Chunjiang"]
+    url: https://john-ge.github.io/
+
+"xu":
+  - firstname: ["Ruyi"]
+
+"shi":
+  - firstname: ["Humphrey"]
+    url: https://www.humphreyshi.com/
+
+"sun":
+  - firstname: ["Maosong"]
+    url: https://nlp.csai.tsinghua.edu.cn/staff/sms/
+
+"chua":
+  - firstname: ["Tat-Seng"]
+    url: https://www.chuatatseng.com/
