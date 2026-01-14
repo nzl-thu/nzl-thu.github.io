@@ -31,7 +31,7 @@ latest_posts:
 
 I am a Ph.D. student in Pattern Recognition and Machine Learning at [LeapLab](https://www.leaplab.ai/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Gao Huang](http://www.gaohuang.net/). I received my B.Eng. in Automation from Tsinghua University in 2022.
 
-My research focuses on **efficient image synthesis**, with a particular emphasis on **discrete (token-based) generative models**.
+My research focuses on **efficient generative models**, with a particular emphasis on **discrete generative models** and **diffusion language models**.
 
 My work has appeared in top-tier venues including **CVPR**, **ICCV**, **NeurIPS**, **ECCV**, **ICLR**, **TPAMI**, **IJCV**, and **Nature Machine Intelligence**.
 
