@@ -780,6 +780,23 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .periodical {
+        .oral-badge {
+          display: inline-block;
+          vertical-align: middle;
+          margin-left: 0.4rem;
+          padding: 0.05rem 0.5rem;
+          font-size: 0.7rem;
+          font-weight: 600;
+          line-height: 1.4;
+          letter-spacing: 0.02em;
+          text-transform: uppercase;
+          border-radius: 0.6rem;
+          color: var(--global-card-bg-color);
+          background-color: var(--global-theme-color);
+        }
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

@@ -178,11 +178,10 @@
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% assign entry_note = entry.note | strip %}
     <div class="periodical">
       {{ periodical | strip }}
-    </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
+      {%- if entry_note != "" %}<span class="oral-badge">{{ entry_note }}</span>{% endif -%}
     </div>
 
     <!-- Links/Buttons -->
