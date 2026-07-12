@@ -795,6 +795,20 @@ footer.sticky-bottom {
           color: var(--global-card-bg-color);
           background-color: var(--global-theme-color);
         }
+
+        .publication-ranking {
+          display: inline-block;
+          vertical-align: middle;
+          margin-left: 0.4rem;
+          padding: 0.05rem 0.5rem;
+          font-size: 0.7rem;
+          font-weight: 700;
+          line-height: 1.4;
+          letter-spacing: 0.02em;
+          color: #fff;
+          background-color: var(--global-highlight-color);
+          border-radius: 0.6rem;
+        }
       }
 
       .author {

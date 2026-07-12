@@ -172,6 +172,9 @@
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
+    {% if entry.ranking %}
+      {% capture entrytype %}{{ entrytype }} <span class="publication-ranking">{{ entry.ranking }}</span>{% endcapture %}
+    {% endif %}
     {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
     {% if hook_exists == 'true' %}
       {% include hook/bib.liquid %}

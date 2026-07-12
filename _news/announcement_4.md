@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **The Flexibility Trap** is accepted to **ICML 2026** as an **Oral** presentation!
+🎉 Our paper **The Flexibility Trap** received an **Outstanding Paper Award** at **ICML 2026**!
