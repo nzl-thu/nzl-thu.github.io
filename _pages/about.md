@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Pattern Recognition and Machine Learning at [LeapLab](https://www.leaplab.ai/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Gao Huang](http://www.gaohuang.net/). I received my B.Eng. in Automation from Tsinghua University in 2022.
+I am a Ph.D. student in Pattern Recognition and Machine Learning at [LeapLab](https://www.leaplab.ai/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Gao Huang](http://www.gaohuang.net/). I received my B.Eng. in Automation from Tsinghua University in 2022. I am a recipient of the [**ICML 2026 Outstanding Paper Award**](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/) for **The Flexibility Trap**.
 
 My research focuses on **efficient generative models**, with a particular emphasis on **discrete generative models** and **diffusion language models**.
 
