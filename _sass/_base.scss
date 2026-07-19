@@ -781,10 +781,17 @@ footer.sticky-bottom {
       }
 
       .periodical {
+        .publication-badges {
+          display: flex;
+          flex-wrap: nowrap;
+          align-items: center;
+          gap: 0.4rem;
+          margin-top: 0.35rem;
+        }
+
         .oral-badge {
           display: inline-block;
           vertical-align: middle;
-          margin-left: 0.4rem;
           padding: 0.05rem 0.5rem;
           font-size: 0.7rem;
           font-weight: 600;
@@ -799,7 +806,6 @@ footer.sticky-bottom {
         .publication-ranking {
           display: inline-block;
           vertical-align: middle;
-          margin-left: 0.4rem;
           padding: 0.05rem 0.5rem;
           font-size: 0.7rem;
           font-weight: 700;
