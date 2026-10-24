@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **AdaGen** (TPAMI 2025) is accepted!
-
-
+🎉 Our paper **AdaGen** is accepted by **TPAMI** (published online in 2025; volume publication in 2026)!
