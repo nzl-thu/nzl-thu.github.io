@@ -11,14 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "21 research works, including 11 first/co-first-author works. An asterisk (*) denotes equal contribution.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Education, research experience, grants, and honors.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-honors",
           title: "honors",
-          description: "",
+          description: "Awards, scholarships, research grants, and talent programs.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/honors/";
@@ -372,14 +379,20 @@ ninja.data = [{
             },},{id: "news-received-the-national-scholarship-from-tsinghua-university-in-2025",
           title: '🎉 Received the National Scholarship from Tsinghua University in 2025!',
           description: "",
-          section: "News",},{id: "news-our-paper-adagen-tpami-2025-is-accepted",
-          title: '🎉 Our paper AdaGen (TPAMI 2025) is accepted!',
+          section: "News",},{id: "news-our-paper-adagen-is-accepted-by-tpami-published-online-in-2025-volume-publication-in-2026",
+          title: '🎉 Our paper AdaGen is accepted by TPAMI (published online in 2025; volume...',
           description: "",
           section: "News",},{id: "news-new-preprint-the-flexibility-trap-is-out-check-out-our-project-page",
           title: '🎉 New preprint The Flexibility Trap is out! Check out our project page....',
           description: "",
           section: "News",},{id: "news-our-paper-the-flexibility-trap-received-the-icml-2026-outstanding-paper-award",
           title: '🎉 Our paper The Flexibility Trap received the ICML 2026 Outstanding Paper Award!...',
+          description: "",
+          section: "News",},{id: "news-honored-to-receive-the-national-scholarship-for-doctoral-students-for-the-second-consecutive-year-2025-and-2026",
+          title: 'Honored to receive the National Scholarship for Doctoral Students for the second consecutive...',
+          description: "",
+          section: "News",},{id: "news-research-updates-co-grpo-and-uno-are-accepted-at-neurips-2026-insighttok-received-the-lovif-eccv-2026-workshop-outstanding-paper-award-and-an-oral-presentation",
+          title: 'Research updates: Co-GRPO and UNO are accepted at NeurIPS 2026. InsightTok received the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -439,6 +452,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/nzl-thu", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=Yibz_asAAAAJ", "_blank");
         },
       },{
         id: 'social-rss',
