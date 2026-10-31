@@ -1,0 +1,31 @@
+# Newest first. The homepage shows the first `news_limit` items (content/site.toml).
+
+[[news]]
+date = "2026-10-24"
+en = "**Co-GRPO** and **UNO** were accepted at NeurIPS 2026. **InsightTok** received the Outstanding Paper Award (Oral) at the LoViF Workshop @ ECCV 2026."
+zh = "**Co-GRPO** 与 **UNO** 被 NeurIPS 2026 接收；**InsightTok** 获 LoViF @ ECCV 2026 Workshop 杰出论文奖（Oral）。"
+
+[[news]]
+date = "2026-10-24"
+en = "Received the National Scholarship for Doctoral Students for the second consecutive year (2025 and 2026)."
+zh = "连续第二年获博士研究生国家奖学金（2025、2026）。"
+
+[[news]]
+date = "2026-07-06"
+en = "**The Flexibility Trap** received the [ICML 2026 Outstanding Paper Award](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/)."
+zh = "**The Flexibility Trap** 获 [ICML 2026 杰出论文奖](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/)。"
+
+[[news]]
+date = "2026-01-13"
+en = "**The Flexibility Trap** is out on arXiv. See the [project page](https://nzl-thu.github.io/the-flexibility-trap)."
+zh = "**The Flexibility Trap** 预印本发布，见[项目主页](https://nzl-thu.github.io/the-flexibility-trap)。"
+
+[[news]]
+date = "2025-10-27"
+en = "**AdaGen** was accepted by TPAMI."
+zh = "**AdaGen** 被 TPAMI 接收。"
+
+[[news]]
+date = "2025-10-14"
+en = "Received the National Scholarship from Tsinghua University."
+zh = "获清华大学国家奖学金。"

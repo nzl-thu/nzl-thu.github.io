@@ -1,0 +1,33 @@
+# Site-wide settings and the homepage profile.
+# Inline text supports **bold**, [text](url) and internal links such as [text](page:cv) or [text](page:home#publications).
+
+url = "https://nzl-thu.github.io"
+updated = "2026-10"
+news_limit = 5       # homepage shows the newest N news items
+
+email = "nzl22@mails.tsinghua.edu.cn"
+scholar = "https://scholar.google.com/citations?user=Yibz_asAAAAJ"
+github = "https://github.com/nzl-thu"
+photo = "zanlin-ni.jpg"
+
+[en]
+name = "Zanlin Ni"
+alt_name = "倪赞林"
+role = "Ph.D. Student · Tsinghua University"
+title = "Zanlin Ni · Tsinghua University"
+description = "Zanlin Ni is a Ph.D. student at Tsinghua University and a research intern at DeepSeek, working on large language models: model architecture and efficient decoding, including diffusion language models."
+bio = [
+  "I am a Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Gao Huang](https://www.gaohuang.net/), and a research intern on the pretraining team at [DeepSeek](https://www.deepseek.com/).",
+  "My research focuses on **large language models**, especially model architecture and efficient decoding, including diffusion language models. My work [The Flexibility Trap](https://nzl-thu.github.io/the-flexibility-trap) received the [ICML 2026 Outstanding Paper Award](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/). Earlier, I worked on parallel decoding for image generation.",
+]
+
+[zh]
+name = "倪赞林"
+alt_name = "Zanlin Ni"
+role = "清华大学 博士研究生"
+title = "倪赞林 · 清华大学"
+description = "倪赞林，清华大学自动化系博士研究生，DeepSeek 研究实习生，研究大语言模型的模型架构与高效解码，包括扩散语言模型。"
+bio = [
+  "我是[清华大学](https://www.tsinghua.edu.cn/)自动化系博士研究生，导师为[黄高](https://www.gaohuang.net/)副教授；目前在 [DeepSeek](https://www.deepseek.com/) 预训练团队实习。",
+  "我的研究关注**大语言模型**，尤其是模型架构与高效解码，包括扩散语言模型。我的工作 [The Flexibility Trap](https://nzl-thu.github.io/the-flexibility-trap) 获 [ICML 2026 杰出论文奖](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/)。此前，我主要研究图像生成中的并行解码。",
+]

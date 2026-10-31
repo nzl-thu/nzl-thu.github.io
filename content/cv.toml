@@ -1,0 +1,88 @@
+# CV page. Each entry has en / zh text; `period` is shown in the left column.
+
+[interests]
+en = "Large language models: model architecture and efficient decoding, including diffusion language models."
+zh = "大语言模型：模型架构与高效解码，包括扩散语言模型。"
+
+[[education]]
+period = "2022.09 – present"
+period_zh = "2022.09 – 至今"
+en = { title = "Ph.D. in Control Science and Engineering", org = "Department of Automation, Tsinghua University", detail = "Advisor: [Prof. Gao Huang](https://www.gaohuang.net/)" }
+zh = { title = "控制科学与工程 博士研究生", org = "清华大学 自动化系", detail = "导师：[黄高](https://www.gaohuang.net/)副教授" }
+
+[[education]]
+period = "2017 – 2022"
+en = { title = "B.Eng. in Automation", org = "Department of Automation, Tsinghua University", detail = "Class rank: 2 / 175" }
+zh = { title = "自动化专业 工学学士", org = "清华大学 自动化系", detail = "专业排名：2 / 175" }
+
+[[experience]]
+period = "2026.08 – present"
+period_zh = "2026.08 – 至今"
+en = { title = "Research Intern", org = "DeepSeek, Pretraining (Backbone) Team", detail = "Model architecture design." }
+zh = { title = "研究实习生", org = "DeepSeek 预训练（Backbone）团队", detail = "从事模型架构设计。" }
+
+[[experience]]
+period = "2024.06 – 2026.08"
+en = { title = "Research Intern", org = "Alibaba Future Living Lab (now part of the ATH business group)", detail = "Led university–industry research projects, including [The Flexibility Trap](https://nzl-thu.github.io/the-flexibility-trap) (ICML 2026 Outstanding Paper) and [AdaGen](https://arxiv.org/abs/2603.06993) (TPAMI 2026)." }
+zh = { title = "研究实习生", org = "阿里巴巴未来生活实验室（现 ATH 事业部）", detail = "作为主要负责人推进校企合作课题，主导 [The Flexibility Trap](https://nzl-thu.github.io/the-flexibility-trap)（ICML 2026 杰出论文）与 [AdaGen](https://arxiv.org/abs/2603.06993)（TPAMI 2026）。" }
+
+[[experience]]
+period = "2022.10 – 2023.06"
+en = { title = "Research Intern", org = "Beijing Academy of Artificial Intelligence (BAAI)", detail = "Led [MUSE-Pytorch](https://github.com/baaivision/MUSE-Pytorch), an open-source reproduction of Google's Muse, later listed as a reference implementation by ByteDance's [1d-tokenizer](https://github.com/bytedance/1d-tokenizer) (TiTok / RAR / MaskGen)." }
+zh = { title = "研究实习生", org = "北京智源人工智能研究院", detail = "主导 Google Muse 的开源复现 [MUSE-Pytorch](https://github.com/baaivision/MUSE-Pytorch)，后被字节跳动 [1d-tokenizer](https://github.com/bytedance/1d-tokenizer)（TiTok / RAR / MaskGen）列为参考实现。" }
+
+[[grants]]
+period = "2026.01 – 2027.12"
+en = { title = "NSFC Young Student Basic Research Program (Doctoral Students)", org = "National Natural Science Foundation of China", detail = "Principal investigator; RMB 300,000." }
+zh = { title = "国家自然科学基金青年学生基础研究项目（博士研究生）", org = "国家自然科学基金委员会", detail = "项目负责人，资助金额 30 万元。" }
+
+[[grants]]
+period = "2025.12 – 2027.12"
+en = { title = "Young Science and Technology Talent Cultivation Program, Doctoral Student Track", org = "China Association for Science and Technology (CAST)" }
+zh = { title = "中国科协青年科技人才培育工程博士生专项计划", org = "中国科学技术协会" }
+
+[[honors]]
+year = "2026"
+en = "ICML Outstanding Paper Award, [The Flexibility Trap](https://nzl-thu.github.io/the-flexibility-trap) (2 of 23,918 submissions)"
+zh = "ICML 杰出论文奖，[The Flexibility Trap](https://nzl-thu.github.io/the-flexibility-trap)（2 / 23,918）"
+
+[[honors]]
+year = "2026"
+en = "Outstanding Paper Award, LoViF Workshop @ ECCV 2026 ([InsightTok](https://arxiv.org/abs/2605.14333))"
+zh = "LoViF @ ECCV 2026 Workshop 杰出论文奖（[InsightTok](https://arxiv.org/abs/2605.14333)）"
+
+[[honors]]
+year = "2025, 2026"
+year_zh = "2025、2026"
+en = "National Scholarship for Doctoral Students"
+zh = "博士研究生国家奖学金"
+
+[[honors]]
+year = "2024"
+en = "Champion and Innovation Award, CVPR 2024 AGC Multi-View 3D Visual Grounding Track (team member)"
+zh = "CVPR 2024 AGC Multi-View 3D Visual Grounding 赛道冠军及创新奖（团队成员）"
+
+[[honors]]
+year = "2022"
+en = "Future Scholar Scholarship, Tsinghua University"
+zh = "清华大学“未来学者”奖学金"
+
+[[honors]]
+year = "2021"
+en = "SenseTime Scholarship"
+zh = "商汤奖学金"
+
+[[honors]]
+year = "2019"
+en = "Second Prize, Finals of the 10th National Undergraduate Mathematics Competition (non-mathematics majors)"
+zh = "第十届全国大学生数学竞赛决赛（非数学类）二等奖"
+
+[[honors]]
+year = "2018"
+en = "First Prize, 10th National Undergraduate Mathematics Competition (non-mathematics majors)"
+zh = "第十届全国大学生数学竞赛（非数学类）一等奖"
+
+[[honors]]
+year = "2018"
+en = "First Prize, 35th Regional Undergraduate Physics Competition (non-physics majors, Category A)"
+zh = "第三十五届全国部分地区大学生物理竞赛（非物理类 A 组）一等奖"
